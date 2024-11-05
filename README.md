@@ -1,14 +1,14 @@
 # Projet Python Bash Conversion: Formation Progressive
 
-🍃 **Bienvenue dans notre projet de transformation de scripts Bash en Python sous Linux !**  
-Nous avons conçu ce projet comme une formation progressive pour vous aider à apprendre et maîtriser la conversion de scripts Bash en Python, tout en respectant les spécificités de l'environnement Linux.
+🍃 **Bienvenue dans mon projet de transformation de scripts Bash en Python sous Linux !**  
+J'ai conçu ce projet comme une formation progressive pour vous aider à apprendre et maîtriser la conversion de scripts Bash en Python, tout en respectant les spécificités de l'environnement Linux.
 
 ---
 
 ## Objectif
 
 L'objectif principal est de fournir une série de modules d'apprentissage allant de la création de comptes utilisateurs jusqu'à la manipulation de scripts réseaux, afin de rendre les scripts Bash plus robustes, lisibles et faciles à maintenir en Python.
-
+De plus, ce projet permettra d'analyser les avantages et inconvénients de l'utilisation de Python par rapport aux scripts Bash. Cela aidera les utilisateurs à mieux comprendre et choisir le langage qui correspond le mieux à leurs besoins en fonction de la simplicité, de la maintenance, de la performance, ou de l'évolutivité de leurs scripts.
 ---
 
 ## Plan du Projet
@@ -34,13 +34,13 @@ Le projet est structuré en plusieurs étapes croissantes :
 
 - **Python 🐍** : Pour le traitement, la conversion et l'amélioration des scripts.
 - **Bash** : Pour comparer l'efficacité et la syntaxe des scripts originaux.
-- **Linux** : L'environnement de développement et de test pour ces conversions.
+- **Linux Debian** : L'environnement de développement et de test pour ces conversions.
 
 ---
 
 ## Comment Contribuer
 
-Nous invitons tous les contributeurs à participer à ce projet, partager des idées, et proposer des améliorations pour rendre ce guide encore plus efficace pour les débutants comme pour les utilisateurs avancés.
+Nous invitons tous les contributeurs à participer à ce projet, partager des idées, et proposer des améliorations des scripts Bash et Python pour rendre ce guide encore plus efficace pour les débutants comme pour les utilisateurs avancés.
 
 ---
 
