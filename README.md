@@ -1,9 +1,3 @@
-# Projet_Python_Bash_Conversion
-Projet Python Bash Conversion: Formation Progressive
-Voici une ébauche pour le fichier README de votre projet GitHub :
-
----
-
 # Projet Python Bash Conversion: Formation Progressive
 
 🍃 **Bienvenue dans notre projet de transformation de scripts Bash en Python sous Linux !**  
