@@ -9,6 +9,7 @@ J'ai conçu ce projet comme une formation progressive pour vous aider à apprend
 
 L'objectif principal est de fournir une série de modules d'apprentissage allant de la création de comptes utilisateurs jusqu'à la manipulation de scripts réseaux, afin de rendre les scripts Bash plus robustes, lisibles et faciles à maintenir en Python.
 De plus, ce projet permettra d'analyser les avantages et inconvénients de l'utilisation de Python par rapport aux scripts Bash. Cela aidera les utilisateurs à mieux comprendre et choisir le langage qui correspond le mieux à leurs besoins en fonction de la simplicité, de la maintenance, de la performance, ou de l'évolutivité de leurs scripts.
+
 ---
 
 ## Plan du Projet
